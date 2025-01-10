@@ -17,7 +17,7 @@
    git clone https://github.com/mzareefmustafa/Build-Your-Own-World.git
 
 2. **Go to the project directory**:
-3. 
+    
    cd Build-Your-Own-World
 
 4. **Compile the code**:
@@ -42,12 +42,12 @@
 ## Project Structure
 
 Build-Your-Own-World/
-│
-├── byow/
-│   ├── Core/           # Game logic
-│   ├── InputDemo/      # Input handling
-│   ├── TileEngine/     # World rendering
-│   └── lab12/          # (Optional lab files)
-├── README.md           # This file
-├── savedGame.txt       # Saved game data
-└── .gitignore          # Files to ignore in git
+   │
+   ├── byow/
+   │   ├── Core/           # Game logic
+   │   ├── InputDemo/      # Input handling
+   │   ├── TileEngine/     # World rendering
+   │   └── lab12/          # (Optional lab files)
+   ├── README.md           # This file
+   ├── savedGame.txt       # Saved game data
+   └── .gitignore          # Files to ignore in git
