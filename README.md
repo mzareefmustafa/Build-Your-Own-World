@@ -43,11 +43,11 @@
 
 Build-Your-Own-World/
 
--   │
+-    │
 -   ├── byow/
--   │   ├── Core/           # Game logic
--   │   ├── InputDemo/      # Input handling
--   │   └── TileEngine/     # World rendering
+-    │   ├── Core/           # Game logic
+-    │   ├── InputDemo/      # Input handling
+-    │   └── TileEngine/     # World rendering
 -   ├── README.md           # This file
 -   ├── savedGame.txt       # Saved game data
 -   └── .gitignore          # Files to ignore in git
