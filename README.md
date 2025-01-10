@@ -42,12 +42,12 @@
 ## Project Structure
 
 Build-Your-Own-World/
-   │
-   ├── byow/
-   │   ├── Core/           # Game logic
-   │   ├── InputDemo/      # Input handling
-   │   ├── TileEngine/     # World rendering
-   │   └── lab12/          # (Optional lab files)
-   ├── README.md           # This file
-   ├── savedGame.txt       # Saved game data
-   └── .gitignore          # Files to ignore in git
+
+-   │
+-   ├── byow/
+-   │   ├── Core/           # Game logic
+-   │   ├── InputDemo/      # Input handling
+-   │   └── TileEngine/     # World rendering
+-   ├── README.md           # This file
+-   ├── savedGame.txt       # Saved game data
+-   └── .gitignore          # Files to ignore in git
