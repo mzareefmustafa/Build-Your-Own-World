@@ -23,27 +23,15 @@
       <change beforePath="$PROJECT_DIR$/byow/lab12/lab12.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/byow/lab12/project3prep.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/byow/lab13/MemoryGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/libraries/javalib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proj3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/DirectionOfHall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/RandomUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/World$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/World.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/XandYCoordinates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/DemoInputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/InputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/KeyboardInputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/RandomInputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/StringInputDevice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/TileEngine/TERenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/TileEngine/TETile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/TileEngine/Tileset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/Core/RandomUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/Core/RandomUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/DemoInputSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/DemoInputSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/KeyboardInputSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/KeyboardInputSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/RandomInputSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/RandomInputSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/StringInputDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj3/byow/InputDemo/StringInputDevice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/lab12/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/lab12/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/lab12/.idea/vcs.xml" beforeDir="false" />
@@ -55,7 +43,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/lab12/project3prep.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proj3/byow/lab13/MemoryGame.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proj3/proj3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/proj3.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,25 +117,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="158" key="GridCell.Tab.0.bottom" timestamp="1736472121976">
+    <state width="1398" height="158" key="GridCell.Tab.0.bottom" timestamp="1736467072819">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="158" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1736472121976" />
+    <state width="1398" height="158" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1736467072819" />
     <state width="1398" height="158" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1736466058682" />
-    <state width="1398" height="158" key="GridCell.Tab.0.center" timestamp="1736472121975">
+    <state width="1398" height="158" key="GridCell.Tab.0.center" timestamp="1736467072817">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="158" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1736472121975" />
+    <state width="1398" height="158" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1736467072817" />
     <state width="1398" height="158" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1736466058680" />
-    <state width="1398" height="158" key="GridCell.Tab.0.left" timestamp="1736472121974">
+    <state width="1398" height="158" key="GridCell.Tab.0.left" timestamp="1736467072816">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="158" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1736472121974" />
+    <state width="1398" height="158" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1736467072816" />
     <state width="1398" height="158" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1736466058677" />
-    <state width="1398" height="158" key="GridCell.Tab.0.right" timestamp="1736472121975">
+    <state width="1398" height="158" key="GridCell.Tab.0.right" timestamp="1736467072818">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="158" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1736472121975" />
+    <state width="1398" height="158" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1736467072818" />
     <state width="1398" height="158" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1736466058681" />
     <state x="208" y="28" key="SettingsEditor" timestamp="1736456430245">
       <screen x="0" y="0" width="1440" height="900" />

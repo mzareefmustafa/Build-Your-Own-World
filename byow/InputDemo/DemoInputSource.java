@@ -1,7 +1,6 @@
 package byow.InputDemo;
 
 /**
- * Created by hug.
  * Demonstrates how a single interface can be used to provide input
  * from they keyboard, from a random sequence, from a string, or whatever else.
  */

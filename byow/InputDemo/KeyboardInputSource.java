@@ -1,7 +1,6 @@
 package byow.InputDemo;
 
 /**
- * Created by hug.
  */
 import edu.princeton.cs.introcs.StdDraw;
 
