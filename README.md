@@ -38,15 +38,23 @@ java byow.Core.Engine
 | `L`              | Load the last saved game.            |
 
 ## 📂 Project Structure
-
+```
 Build-Your-Own-World/
 │
 ├── byow/
-│'''├── Core/           # Main game logic  
-│'''├── InputDemo/      # Handles user input  
-│'''├── TileEngine/     # World rendering engine  
+│   ├── Core/           # Main game logic  
+│   ├── InputDemo/      # Handles user input  
+│   ├── TileEngine/     # World rendering engine  
 │
 ├── README.md           # Project documentation  
 ├── savedGame.txt       # Stores saved game data  
 └── .gitignore          # Files to exclude from version control  
+```
+
+## 📌 Additional Notes
+
+- **Deterministic World Generation:** Inputting the same seed will generate the same world.
+- **No Real-Time Updates:** The world remains static until a player moves.
+- **Built-in Tile Rendering:** Uses StdDraw and the TileEngine for display.
+  
  
