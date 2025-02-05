@@ -42,10 +42,11 @@ java byow.Core.Engine
 Build-Your-Own-World/
 │
 ├── byow/
-│   ├── Core/           # Main game logic  
-│   ├── InputDemo/      # Handles user input  
-│   ├── TileEngine/     # World rendering engine  
+│'''├── Core/           # Main game logic  
+│'''├── InputDemo/      # Handles user input  
+│'''├── TileEngine/     # World rendering engine  
 │
 ├── README.md           # Project documentation  
 ├── savedGame.txt       # Stores saved game data  
-└── .gitignore          # Files to exclude from version control 
+└── .gitignore          # Files to exclude from version control  
+ 
